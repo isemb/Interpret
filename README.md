@@ -18,3 +18,8 @@ It supports most of Python’s syntax, keywords, and built-in functions, while o
 ## How to run
 
 Usage: java -jar asp.jar [-log{E|P|S|Y}] [-test{expr|parser|scanner}] file
+
+## Other
+
+The ASP language, its specification, and the official course material (including a compendium describing syntax and features) were created by Dag Langmyr.
+As part of the course, we were tasked with implementing the ASP interpreter in Java according to this specification.
